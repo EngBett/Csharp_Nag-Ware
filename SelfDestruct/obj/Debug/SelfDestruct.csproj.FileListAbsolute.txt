@@ -1,0 +1,15 @@
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\bin\Debug\SelfDestruct.exe.config
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\bin\Debug\SelfDestruct.exe
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\bin\Debug\SelfDestruct.pdb
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\obj\Debug\SelfDestruct.csprojResolveAssemblyReference.cache
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\obj\Debug\SelfDestruct.Form1.resources
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\obj\Debug\SelfDestruct.Properties.Resources.resources
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\obj\Debug\SelfDestruct.csproj.GenerateResource.Cache
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\obj\Debug\SelfDestruct.exe
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\obj\Debug\SelfDestruct.pdb
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\obj\Debug\Interop.WMPLib.dll
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Bett\Desktop\HomeWork Market\c#\SelfDestruct\SelfDestruct\obj\Debug\SelfDestruct.csproj.ResolveComReference.cache
